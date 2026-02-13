@@ -18,7 +18,7 @@ const settings = {
     { title: 'Github', icon: Github, href: '/' },
     { title: 'Youtube', icon: Youtube, href: '/' },
   ],
-  copyright: '© 2024 Your Company, Inc. All rights reserved.'
+  copyright: '© 2026 - All Rights Reserved by FluvoSoft'
 }
 
 export default function Footer() {
