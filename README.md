@@ -37,20 +37,20 @@ Start by cloning this repository
 ```
 
 
-Install dependecies (this project uses yarn as package manager)
+Install dependencies (this project uses npm)
 
 ```bash
-  yarn
+  npm install
 ```
 
-Run on localhost (dev environement)
+Run on localhost (dev environment)
 ```bash
-  yarn dev # http://localhost:3000
+  npm run dev # http://localhost:3000
 ```
 
 To build the project run this command
 ```bash
-  yarn build
+  npm run build
 ```   
 ## Authors
 
